@@ -1,2 +1,2 @@
 # Applied-Data-Science-Captone
-coursera'a applied data science capstone
+coursera's applied data science capstone projecs.
